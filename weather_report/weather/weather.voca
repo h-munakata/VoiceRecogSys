@@ -1,0 +1,97 @@
+%HOGE_KEN
+青森  a o m o r i 
+岩手  i w a t e 
+宮城  m i y a g i 
+秋田  a k i t a 
+山形  y a m a g a t a 
+福島  f u k u sh i m a 
+茨城  i b a r a g i 
+栃木  t o ch i g i 
+群馬  g u N m a 
+埼玉  s a i t a m a 
+千葉  ch i b a 
+神奈川    k a n a g a w a 
+新潟  n i: g a t a 
+富山  t o y a m a 
+石川  i sh i k a w a 
+福井  f u k u i 
+山梨  y a m a n a sh i 
+長野  n a g a n o 
+岐阜  g i f u 
+静岡  sh i z u o k a 
+愛知  a i ch i 
+三重  m i e 
+滋賀  sh i g a 
+兵庫  hy o: g o 
+奈良  n a r a 
+和歌山    w a k a y a m a 
+鳥取  t o q t o r i 
+島根  sh i m a n e 
+岡山  o k a y a m a 
+広島  h i r o sh i m a 
+山口  y a m a g u ch i 
+徳島  y o k u sh i m a 
+香川  k a g a w a 
+愛媛  e h i m e 
+高知  k o: ch i 
+福岡  f u k u o k a 
+佐賀  s a g a 
+長崎  n a g a s a k i 
+熊本  k u m a m o t o 
+大分  o: i t a 
+宮崎  m i y a z a k i 
+鹿児島    k a g o sh i m a 
+沖縄  o k i n a w a 
+
+%KEN
+県 k e N
+
+%TOKYO
+東京  t o: ky o:
+
+%HOGE_TO
+都  t o
+
+%OSAKA_KYOTO
+京都  ky o: t o
+大阪  o: s a k a
+
+%HOGE_FU
+府  f u 
+
+%HOKKAIDOU
+北海道  h o q k a i d o:
+
+%DAY
+今日    ky o:
+明日    a sh i t a
+明後日  a s a q t e
+
+%NO
+の n o
+
+%WO
+を w o
+
+%DETAIL
+詳細を sh o: s a i
+詳しく k u w a sh i k u
+詳しい情報を    k u w a sh i: j o: h o:
+
+%WEATHER
+天気 t e N k i
+
+%INFORM
+教えて o s i e t e
+
+%THANX
+ありがとう a r i g a t o:
+もういいよ m o: i i y o
+
+%HELP
+ヘルプ  h e r u p u
+
+% NS_B
+<s>	silB
+% NS_E
+</s>	silE

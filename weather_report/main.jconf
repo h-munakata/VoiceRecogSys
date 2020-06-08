@@ -1,0 +1,33 @@
+-v ./weather/weather.dict
+-dfa ./weather/weather.dfa
+# julius -C mac.jconf -C ../am-gmm.jconf -module
+
+
+
+# 第一パス探索幅。
+-b 1500
+# 第二パス探索幅。仮説幅。
+-b2 100
+#打ち切り数,打ち切りサイズ
+-m 8000
+-s 600
+# 探索数
+-n 25
+# 展開単語を何フレーム考慮？
+-lookuprange 15
+# 使用ガウス分布数
+-tmix 2
+
+
+# 重み
+-lmp 8.0 -2.0
+-lmp2 8.0 -2.0
+
+# DC除去
+-zmean
+# 閾値
+-lv 1200
+
+
+# 終了マージン
+-tailmargin 700

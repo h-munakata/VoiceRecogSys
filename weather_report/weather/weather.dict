@@ -1,0 +1,65 @@
+0	[青森]	a o m o r i
+0	[岩手]	i w a t e
+0	[宮城]	m i y a g i
+0	[秋田]	a k i t a
+0	[山形]	y a m a g a t a
+0	[福島]	f u k u sh i m a
+0	[茨城]	i b a r a g i
+0	[栃木]	t o ch i g i
+0	[群馬]	g u N m a
+0	[埼玉]	s a i t a m a
+0	[千葉]	ch i b a
+0	[神奈川]	k a n a g a w a
+0	[新潟]	n i: g a t a
+0	[富山]	t o y a m a
+0	[石川]	i sh i k a w a
+0	[福井]	f u k u i
+0	[山梨]	y a m a n a sh i
+0	[長野]	n a g a n o
+0	[岐阜]	g i f u
+0	[静岡]	sh i z u o k a
+0	[愛知]	a i ch i
+0	[三重]	m i e
+0	[滋賀]	sh i g a
+0	[兵庫]	hy o: g o
+0	[奈良]	n a r a
+0	[和歌山]	w a k a y a m a
+0	[鳥取]	t o q t o r i
+0	[島根]	sh i m a n e
+0	[岡山]	o k a y a m a
+0	[広島]	h i r o sh i m a
+0	[山口]	y a m a g u ch i
+0	[徳島]	y o k u sh i m a
+0	[香川]	k a g a w a
+0	[愛媛]	e h i m e
+0	[高知]	k o: ch i
+0	[福岡]	f u k u o k a
+0	[佐賀]	s a g a
+0	[長崎]	n a g a s a k i
+0	[熊本]	k u m a m o t o
+0	[大分]	o: i t a
+0	[宮崎]	m i y a z a k i
+0	[鹿児島]	k a g o sh i m a
+0	[沖縄]	o k i n a w a
+1	[県]	k e N
+2	[東京]	t o: ky o:
+3	[都]	t o
+4	[京都]	ky o: t o
+4	[大阪]	o: s a k a
+5	[府]	f u
+6	[北海道]	h o q k a i d o:
+7	[今日]	ky o:
+7	[明日]	a sh i t a
+7	[明後日]	a s a q t e
+8	[の]	n o
+9	[を]	w o
+10	[詳細を]	sh o: s a i
+10	[詳しく]	k u w a sh i k u
+10	[詳しい情報を]	k u w a sh i: j o: h o:
+11	[天気]	t e N k i
+12	[教えて]	o s i e t e
+13	[ありがとう]	a r i g a t o:
+13	[もういいよ]	m o: i i y o
+14	[ヘルプ]	h e r u p u
+15	[<s>]	silB
+16	[</s>]	silE
